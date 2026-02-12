@@ -15,7 +15,7 @@
 
 ## La certification *Expert(e) en Développement Logiciel*
 
-[Voir la certification sur le répertoire national des certifications professionnelles reconnues par l'état (RNCP)](https://www.francecompetences.fr/recherche/rncp/36912/)
+[Voir la certification sur le répertoire national des certifications professionnelles reconnues par l'état (Tire RNCP 39583)](https://www.francecompetences.fr/recherche/rncp/39583/)
 
 ## Conseils pratiques
 
