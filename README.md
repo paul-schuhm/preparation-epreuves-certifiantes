@@ -32,7 +32,7 @@
 - Établir un **cahier des charges** :
   - Objectifs
   - Analyse (documenter *la solution idéale*, *abstraite*) :
-    - Liste priorisées de spécifications ;
+    - Liste priorisée de *spécifications* ;
   - Analyse de l'existant ;
   - Conception (documenter *le système à produire*, *blueprints*)
 
