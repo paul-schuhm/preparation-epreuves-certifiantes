@@ -36,6 +36,13 @@
   - Analyse de l'existant ;
   - Conception (documenter *le système à produire*, *blueprints*)
 
+
+<!--
+Diagrammes : C4, UML, DFD, Merise
+Outils: Umlet, dia
+
+-->
+
 #### Ressources utiles pour compléter ce bloc
 
 - [Le modèle C4](https://c4model.com/) pour la visualisation de l'architecture logicielle (statique et dynamique). [Voir notamment le diagramme de contexte (system context diagram)](https://c4model.com/diagrams/system-context)
