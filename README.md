@@ -12,6 +12,8 @@
     - [Bloc 3 : Coordonner et piloter un projet de développement d'applications logicielles](#bloc-3--coordonner-et-piloter-un-projet-de-développement-dapplications-logicielles)
     - [Bloc 4 : Maintenir l'application logicielle en condition opérationnelle](#bloc-4--maintenir-lapplication-logicielle-en-condition-opérationnelle)
   - [Ressources utiles](#ressources-utiles)
+    - [Typographie](#typographie)
+    - [Outils de dessin (schémas, diagrammes)](#outils-de-dessin-schémas-diagrammes)
 
 ## La certification *Expert(e) en Développement Logiciel*
 
@@ -54,3 +56,13 @@ Outils: Umlet, dia
 ### Bloc 4 : Maintenir l'application logicielle en condition opérationnelle
 
 ## Ressources utiles
+
+### Typographie
+
+- [Lexique des règles typographiques en usage à l’Imprimerie nationale](https://les-unpertinents.fr/Manuscrits/Lexique%20des%20r%C3%A8gles%20typographiques%20en%20usage%20%C3%A0%20l%27Imprimerie%20nationale2.pdf), un code typographique en France, publié par l’Imprimerie nationale *depuis* 1971. Un *must have*
+
+### Outils de dessin (schémas, diagrammes)
+
+- [Umlet](https://www.umlet.com/), excellent outil cross-platform pour réaliser des diagrammes UML *rapidement*, faciles à partager et éditer (dans l'esprit UML 1) ;
+- [dia](http://dia-installer.de/), programme open source et cross-platform pour dessiner des diagrammes structurés ;
+- [excalidraw](https://excalidraw.com/), dessiner des diagrammes rapidement avec un look and feel *fait-main*, en local ou sur le web
