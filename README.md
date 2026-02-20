@@ -27,7 +27,7 @@
 
 ## FAQ
 
-> Réponses aux questions usuelles sur les modalités de l'épreuve
+Réponses aux questions usuelles sur les modalités de l'épreuve
 
 ### Quel volume et quel type/nature de *code* sont attendus dans les livrables pour le bloc de compétences 2 ?
 
