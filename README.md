@@ -2,6 +2,11 @@
 
 - [Préparation aux épreuves certifiantes (M2 Dev FS)](#préparation-aux-épreuves-certifiantes-m2-dev-fs)
   - [La certification *Expert(e) en Développement Logiciel*](#la-certification-experte-en-développement-logiciel)
+  - [FAQ](#faq)
+    - [Quel volume et nature de code est-il attendu en livrable pour le bloc de compétences 2 ?](#quel-volume-et-nature-de-code-est-il-attendu-en-livrable-pour-le-bloc-de-compétences-2-)
+    - [Pour les différents blocs de compétence, peut-on utiliser différents projets (par ex. un projet pour le bloc 1, un autre pour les blocs 2 et 3, etc. ?) ou faut-il un *unique* projet ?](#pour-les-différents-blocs-de-compétence-peut-on-utiliser-différents-projets-par-ex-un-projet-pour-le-bloc-1-un-autre-pour-les-blocs-2-et-3-etc--ou-faut-il-un-unique-projet-)
+    - [Quid de la confidentialité des livrables (sources, rapports écrits et oraux) ?](#quid-de-la-confidentialité-des-livrables-sources-rapports-écrits-et-oraux-)
+    - [Quelle est la composition du jury ?](#quelle-est-la-composition-du-jury-)
   - [Conseils pratiques](#conseils-pratiques)
     - [À l'écrit](#à-lécrit)
     - [À l'oral](#à-loral)
@@ -18,6 +23,27 @@
 ## La certification *Expert(e) en Développement Logiciel*
 
 [Accéder à la certification sur le répertoire national des certifications professionnelles reconnues par l'état (Titre RNCP 39583)](https://www.francecompetences.fr/recherche/rncp/39583/)
+
+
+## FAQ
+
+> Réponses aux questions usuelles sur les modalités de l'épreuve
+
+### Quel volume et nature de code est-il attendu en livrable pour le bloc de compétences 2 ?
+
+> Réponse définitive à venir...
+
+### Pour les différents blocs de compétence, peut-on utiliser différents projets (par ex. un projet pour le bloc 1, un autre pour les blocs 2 et 3, etc. ?) ou faut-il un *unique* projet ?
+
+**Un seul projet, complet,** doit servir à valider *tous* les blocs de compétences.
+
+### Quid de la confidentialité des livrables (sources, rapports écrits et oraux) ?
+
+Les membres du jury signent une **clause de confidentialité** avant d'avoir accès aux livrables ou aux présentations orales.
+
+### Quelle est la composition du jury ?
+
+Le jury est composé de **deux professionnel·les du secteur**. Il n'y *pas* de rapporteur. Chaque jury intervient sur *un* bloc et il n'a accès qu'aux livrables associés à celui-ci.
 
 ## Conseils pratiques
 
