@@ -31,7 +31,9 @@ Réponses aux questions usuelles sur les modalités de l'épreuve
 
 ### Quel volume et quel type/nature de *code* sont attendus dans les livrables pour le bloc de compétences 2 ?
 
-> Réponse définitive à venir (en cours de validation avec le national)...
+Préparer une **archive** (au format `.zip` ou `.tar`) avec des extraits significatifs du système, commentés. Dans l'archive, **placez un `README`** qui présente les différents extraits que vous avez choisi et *pourquoi* vous les avez choisi (description courte), facilitant la navigation.
+
+Vous devez être capable de soutenir ce code à l'oral.
 
 ### Peut-on utiliser des projets différents pour chaque bloc de compétences (par exemple un projet pour le bloc 1 et un autre pour les blocs 2 et 3) ?
 
