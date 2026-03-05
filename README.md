@@ -14,6 +14,9 @@
     - [Bloc 1 : Cadrer un projet de développement d'applications logicielles](#bloc-1--cadrer-un-projet-de-développement-dapplications-logicielles)
       - [Ressources utiles pour compléter ce bloc](#ressources-utiles-pour-compléter-ce-bloc)
     - [Bloc 2 : Concevoir et développer des applications logicielles](#bloc-2--concevoir-et-développer-des-applications-logicielles)
+      - [Continuous Deployment (CD)](#continuous-deployment-cd)
+      - [Sécurisation du système](#sécurisation-du-système)
+      - [Bibliographie](#bibliographie)
     - [Bloc 3 : Coordonner et piloter un projet de développement d'applications logicielles](#bloc-3--coordonner-et-piloter-un-projet-de-développement-dapplications-logicielles)
     - [Bloc 4 : Maintenir l'application logicielle en condition opérationnelle](#bloc-4--maintenir-lapplication-logicielle-en-condition-opérationnelle)
   - [Ressources utiles](#ressources-utiles)
@@ -78,6 +81,19 @@ Outils: Umlet, dia
 - [Le modèle C4](https://c4model.com/) pour la visualisation de l'architecture logicielle (statique et dynamique). [Voir notamment le diagramme de contexte (system context diagram)](https://c4model.com/diagrams/system-context)
 
 ### Bloc 2 : Concevoir et développer des applications logicielles
+
+#### Continuous Deployment (CD)
+
+- [Blue-Green Deployment](https://en.wikipedia.org/wiki/Blue%E2%80%93green_deployment). [Consulter l'article de M. Fowler](https://web.archive.org/web/20200110052353/https://martinfowler.com/bliki/BlueGreenDeployment.html) sur le sujet.  
+
+#### Sécurisation du système
+
+- [OWASP Top 10 2025](https://owasp.org/Top10/2025/)
+
+
+#### Bibliographie
+
+- [Continuous Delivery : Reliable Software Releases through Build, Test, and Deployment Automation](https://martinfowler.com/books/continuousDelivery.html), de Jez Humble et David Farley, publié chez Addison-Wesley, 2010. Voir notamment le chapitre *Rolling Back Deployments and Zero-Downtime Releases* (p 259)
 
 ### Bloc 3 : Coordonner et piloter un projet de développement d'applications logicielles
 
