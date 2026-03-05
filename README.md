@@ -102,7 +102,7 @@ Outils: Umlet, dia
 
 #### Manuels (guides)
 
--[How-to guides](https://diataxis.fr/how-to-guides/), recommandations pour la rédaction de manuels par Diataxis (framework d'écriture de documentation technique).
+- [How-to guides](https://diataxis.fr/how-to-guides/), recommandations pour la rédaction de manuels par Diataxis (framework d'écriture de documentation technique).
 
 #### Bibliographie
 
