@@ -16,6 +16,8 @@
     - [Bloc 2 : Concevoir et développer des applications logicielles](#bloc-2--concevoir-et-développer-des-applications-logicielles)
       - [Continuous Deployment (CD)](#continuous-deployment-cd)
       - [Sécurisation du système](#sécurisation-du-système)
+      - [Accessibilité](#accessibilité)
+      - [Manuels (guides)](#manuels-guides)
       - [Bibliographie](#bibliographie)
     - [Bloc 3 : Coordonner et piloter un projet de développement d'applications logicielles](#bloc-3--coordonner-et-piloter-un-projet-de-développement-dapplications-logicielles)
     - [Bloc 4 : Maintenir l'application logicielle en condition opérationnelle](#bloc-4--maintenir-lapplication-logicielle-en-condition-opérationnelle)
@@ -90,6 +92,17 @@ Outils: Umlet, dia
 
 - [OWASP Top 10 2025](https://owasp.org/Top10/2025/)
 
+
+#### Accessibilité
+
+- [Premiers pas pour rendre un site Web accessible](https://www.w3.org/WAI/gettingstarted/Overview), une liste de tutoriels de la W3C pour rendre votre site web plus accessible
+- [Design and Develop Overview ](https://www.w3.org/WAI/design-develop/), sujets, tutoriels et conseils pour rendre votre site web plus accessible
+- [WebAIM: web accessibility in mind](https://webaim.org/), vérifier et se documenter sur l'accessibilité du web pour les personnes souffrant de handicap
+- [Sensible Forms: A Form Usability Checklist](https://alistapart.com/article/sensibleforms/), améliorer l'accessibilité des formulaires HTML
+
+#### Manuels (guides)
+
+-[How-to guides](https://diataxis.fr/how-to-guides/), recommandations pour la rédaction de manuels par Diataxis (framework d'écriture de documentation technique).
 
 #### Bibliographie
 
