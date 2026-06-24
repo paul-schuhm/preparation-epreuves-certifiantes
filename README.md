@@ -21,6 +21,7 @@
       - [Bibliographie](#bibliographie)
     - [Bloc 3 : Coordonner et piloter un projet de développement d'applications logicielles](#bloc-3--coordonner-et-piloter-un-projet-de-développement-dapplications-logicielles)
     - [Bloc 4 : Maintenir l'application logicielle en condition opérationnelle](#bloc-4--maintenir-lapplication-logicielle-en-condition-opérationnelle)
+      - [Versionnement](#versionnement)
   - [Ressources utiles](#ressources-utiles)
     - [Typographie](#typographie)
     - [Outils de dessin (schémas, diagrammes)](#outils-de-dessin-schémas-diagrammes)
@@ -111,6 +112,13 @@ Outils: Umlet, dia
 ### Bloc 3 : Coordonner et piloter un projet de développement d'applications logicielles
 
 ### Bloc 4 : Maintenir l'application logicielle en condition opérationnelle
+
+#### Versionnement
+
+- [semantic-release](https://github.com/semantic-release/semantic-release), framework de versionnement
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), spécification de commits pour automatiser des tâches, dont le versionnement
+- [Versionnement Sémantique (*Semver*)](https://semver.org/), spécification du versionnement sémantique
+- [Guide pour rédiger correctement une *Release Note* ou *Changelog*](https://docs.github.com/en/contributing/style-guide-and-content-model/style-guide#release-notes), publié par Github
 
 ## Ressources utiles
 
